@@ -1,0 +1,8 @@
+Origin: Connor's Repo
+Label: Connor's Repo
+Suite: stable
+Version: 1.0
+Codename: Connor's Repo
+Architectures: iphoneos-arm
+Components: main
+Description: Connor's repo for all his free tweaks
