@@ -14,3 +14,20 @@ Description: Your passcode is the time
 Author: Connor Graham <thecg1997@gmail.com>
 Name: TimeCode
 
+Package: pe.nn.connor.timecodedebug
+Version: 1.3-DEBUG
+Architecture: iphoneos-arm
+Maintainer: Connor Graham <thecg1997@gmail.com>
+Installed-Size: 184
+Depends: mobilesubstrate
+Conflicts: TimeCode
+Filename: debs/pe.nn.connor.timecodedebug_1.3-DEBUG_iphoneos-arm.deb
+Size: 8270
+MD5sum: a1af02f721c41c917b92dc23545843ca
+SHA1: f33106da8326ad7f2dfb963dd1218afe3de4a1a8
+SHA256: e0e34094a18f3dc9221c48be472afc0958fc43a28e982c44b362d394299dff14
+Section: Tweaks
+Description: Your passcode is the time
+Author: Connor Graham <thecg1997@gmail.com>
+Name: TimeCodeDebug
+
