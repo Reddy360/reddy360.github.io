@@ -20,14 +20,13 @@ Architecture: iphoneos-arm
 Maintainer: Connor Graham <thecg1997@gmail.com>
 Installed-Size: 184
 Depends: mobilesubstrate
-Conflicts: TimeCode
 Filename: debs/pe.nn.connor.timecodedebug_1.3-DEBUG_iphoneos-arm.deb
-Size: 8270
-MD5sum: a1af02f721c41c917b92dc23545843ca
-SHA1: f33106da8326ad7f2dfb963dd1218afe3de4a1a8
-SHA256: e0e34094a18f3dc9221c48be472afc0958fc43a28e982c44b362d394299dff14
+Size: 8256
+MD5sum: e8e3b71abc958dae5919b458d84ad574
+SHA1: 8fbf57fad866bee49fe1bdd8dd286b9bc0ecbc9a
+SHA256: 3e171c987b2587f16016dc47818de0f7f928b3f0915f86f661674037393617b4
 Section: Tweaks
 Description: Your passcode is the time
 Author: Connor Graham <thecg1997@gmail.com>
-Name: TimeCodeDebug
+Name: TimeCode
 
