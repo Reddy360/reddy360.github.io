@@ -1,14 +1,14 @@
 Package: pe.nn.connor.timecode
-Version: 1.4.1
+Version: 1.4.2
 Architecture: iphoneos-arm
 Maintainer: Connor Graham <thecg1997@gmail.com>
-Installed-Size: 184
+Installed-Size: 196
 Depends: mobilesubstrate
-Filename: debs/pe.nn.connor.timecode_1.4.1_iphoneos-arm.deb
-Size: 8210
-MD5sum: dbfbb372109d35e333a2224d0d1eb075
-SHA1: c1f964fe655e6fed1f4ede7f2d280ee43d05c565
-SHA256: 45cdf8b0b466ce996087c71936b995001a522a4bdac37414fc250784b5abb1c8
+Filename: debs/pe.nn.connor.timecode_1.4.2_iphoneos-arm.deb
+Size: 20476
+MD5sum: 16964957df58203aebcdd21f318da010
+SHA1: 1990b3b5476345cdd611396a187a262585e7b3fc
+SHA256: 56417f4c05b77f7ef45f82ff812cdb5de0c2c73a99c0f88c1d308a539621eb79
 Section: Tweaks
 Description: Your passcode is the time
 Author: Connor Graham <thecg1997@gmail.com>
